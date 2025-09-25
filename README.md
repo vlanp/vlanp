@@ -1,6 +1,12 @@
-## Hi, I'm Valentin ! 👋 
+## Hi, I'm Valentin ! 👋
 
-I'm studying to become a FullStack Application Developer, for that I'm searching for a 18-month apprenticeship in either mobile or web development or both.
+- 🔭 I’m currently searching for a 18-month apprenticeship
+  - School : Le Reacteur
+  - Platform : At least 
+  -  mainly in JavaScript / Typescript (since the related training at le
+- 🌱 T
+
+I'm studying to become a FullStack Application Developer, for that I'm searching for.
 
 ### Who Am I?
 Initial background in metrology
