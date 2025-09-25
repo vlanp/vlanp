@@ -12,7 +12,7 @@
   - ✍️ Expanding the articles section (currently featuring one article)
   - 📊 Developing the projects visualization chart for the timeline page
 
-- Some technologies and tools I worked with
+- ⚡Some technologies and tools I worked with
   - JavaScript / TypeScript  
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
